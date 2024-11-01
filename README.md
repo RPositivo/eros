@@ -1,0 +1,2 @@
+# eros
+analisis de caso
